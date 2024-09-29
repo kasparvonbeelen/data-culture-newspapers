@@ -1,5 +1,5 @@
 # data-culture-newspapers
-Newspaper Notebooks for the Data/Culture Workshop (Autumn 2024, London)
+Notebooks for the Data/Culture Workshop on Historical Newspapers (Autumn 2024, London)
 
 ## Monday Session: Exploring Newspaper Metadata
 
