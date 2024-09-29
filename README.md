@@ -3,6 +3,7 @@ Newspaper Notebooks for the Data/Culture Workshop (Autumn 2024, London)
 
 ## Monday Session: Exploring Newspaper Metadata
 
+- Slides are [here](https://docs.google.com/presentation/d/1O8DxG8bdCIh818rqKIoWTt2i85AdrjNUzvY3ztxtmyY/edit?usp=sharing)
 - Explore Digitized Press Directories <a target="_blank" href="https://colab.research.google.com/github/kasparvonbeelen/data-culture-newspapers/blob/main/Data_Culture_Autumn_Workshop_Explore_Mitchell.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
