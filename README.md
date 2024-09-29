@@ -8,7 +8,7 @@ Newspaper Notebooks for the Data/Culture Workshop (Autumn 2024, London)
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Tuesday Session: Exploring language models
+## Tuesday Session: Exploring Language Models
 
 - Introduction and Pretrained Language Models <a target="_blank" href="https://colab.research.google.com/github/kasparvonbeelen/data-culture-newspapers/blob/main/1_Introduction_and_PLMs.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
